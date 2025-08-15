@@ -20,7 +20,7 @@ It is intended to demonstrate the concepts of Object Oriented Programming (OOP) 
 - Basic connection check
 - Uses a standard HTTP user-agent header
 
-## 🛠 Requirements
+##  Requirements
 - Java 8 or later
 - Command-line interface or IDE (NetBeans, IntelliJ, Eclipse)
 
